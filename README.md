@@ -21,7 +21,7 @@ In this project I had to model a database from a non-normalized table (./Spotify
 
 
 To run the project locally:
-1. Clone o repositório
+1. Clone the repository
 ```
 $ git clone git@github.com:AlineCarolina/One-For-All.git
 ```
