@@ -12,8 +12,8 @@ In this project I had to model a database from a non-normalized table (./Spotify
 
 ## Technologies used
 
-  * JavaScript
-  * MySQL
+ * JavaScript
+ * MySQL
 
 ---
 
